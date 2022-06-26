@@ -1,15 +1,15 @@
 ---
 home: true
 heroImage: /images/avatar.png
-heroText: "Xzl's Blob"
-tagline: 'Just do it!!!'
+heroText: "Xzl's Blob 随便提交一点代码有点懵逼"
+tagline: 'Just do it!!! noMagiccc'
 # navbar: false
 # footer: 'ffffff'
 actions:
   # - text: Webpack
   #   link: /webpack/
   #   type: primary
-  - text: 进入博客lalalalllalala
+  - text: 进入博客TEST
     link: /guide/
     type: secondary
 features:
