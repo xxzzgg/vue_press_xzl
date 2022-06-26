@@ -1,0 +1,1 @@
+import{_ as s,o as a,c,a as e,b as t}from"./app.51139168.js";const r={},o=e("h1",{id:"css3",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#css3","aria-hidden":"true"},"#"),t(" CSS3")],-1),_=[o];function n(d,i){return a(),c("div",null,_)}var l=s(r,[["render",n],["__file","css.html.vue"]]);export{l as default};
