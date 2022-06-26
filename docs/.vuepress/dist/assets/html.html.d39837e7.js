@@ -1,0 +1,7 @@
+import{_ as a,o as s,c as n,a as e}from"./app.b079e397.js";const t={},i=e(`<h1 id="html5" tabindex="-1"><a class="header-anchor" href="#html5" aria-hidden="true">#</a> HTML5</h1><h1 id="js" tabindex="-1"><a class="header-anchor" href="#js" aria-hidden="true">#</a> Js</h1><h2 id="js-1" tabindex="-1"><a class="header-anchor" href="#js-1" aria-hidden="true">#</a> Js</h2><h3 id="js-2" tabindex="-1"><a class="header-anchor" href="#js-2" aria-hidden="true">#</a> Js</h3><div class="language-typescript ext-ts line-numbers-mode"><pre class="language-typescript"><code>  <span class="token keyword">interface</span> <span class="token class-name">Iprops</span> <span class="token punctuation">{</span>
+    name<span class="token operator">:</span> <span class="token builtin">string</span><span class="token punctuation">;</span>
+    age<span class="token operator">:</span> <span class="token builtin">number</span><span class="token punctuation">;</span>
+    height<span class="token operator">:</span> <span class="token builtin">number</span><span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,5),r=[i];function c(l,d){return s(),n("div",null,r)}var p=a(t,[["render",c],["__file","html.html.vue"]]);export{p as default};
