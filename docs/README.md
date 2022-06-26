@@ -9,7 +9,7 @@ actions:
   # - text: Webpack
   #   link: /webpack/
   #   type: primary
-  - text: 进入博客
+  - text: 进入博客lalalalllalala
     link: /guide/
     type: secondary
 features:
