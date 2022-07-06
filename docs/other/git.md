@@ -167,6 +167,15 @@ git cz
 
 [git联系](https://learngitbranching.js.org/?locale=zh_CN)
 
+[git异常处理清单](https://www.zoo.team/article/git-exception)
+
+### git reset 
+``` jsx
+git reset --soft  HEAD~1   //  撤销git commit 
+git reset --mined HEAD~2 //撤销 git add git commit 
+git rest --hard HEAD~1
+//已追踪文件的变更内容都消失了，撤销了 commit 和 add 的操作，同时撤销了本地已追踪内容的修改；未追踪的内容不会被改变。从上面的效果可以看到，文件的修改都会被撤销。-hard 参数需要谨慎使用。
+```
 ## .gitignore
 ### .gitignore不生效
 ``` js
