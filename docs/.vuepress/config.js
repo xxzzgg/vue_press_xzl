@@ -15,7 +15,7 @@ module.exports = {
 				link: "/react/",
 			},
 			{
-				text: "vue",
+				text: "Vue",
 				link: "/vue/",
 			},
 			{
@@ -32,7 +32,11 @@ module.exports = {
 			},
 			{
 				text: "杂七杂八",
-				link: "/other/",
+				children: ["/other/index.md", "/other/git.md"],
+			},
+			{
+				text: "算法相关",
+				children: ["/algorithm/index.md"],
 			},
 			// NavbarGroup
 			{
