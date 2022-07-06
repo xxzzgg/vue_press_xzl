@@ -16,7 +16,7 @@ dev-gyt
 ### commit规范
 
 Commit Message
-Commit Message 应遵循 [Conventional commits]("https://www.conventionalcommits.org/en/v1.0.0/#summary") 规范。
+Commit Message 应遵循 [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/#summary) 规范。
 
 ```http request
 feat: A new feature
@@ -43,7 +43,7 @@ revert: Reverts a previous commit. If the commit reverts a previous commit, it s
 ```
 
 ### Rebase vs Merge
-关于 Rebase 和 Merge 的讨论，可以参考[这篇文章]("https://git-scm.com/book/zh/v2/Git-%E5%88%86%E6%94%AF-%E5%8F%98%E5%9F%BA")。
+关于 Rebase 和 Merge 的讨论，可以参考[这篇文章](https://git-scm.com/book/zh/v2/Git-%E5%88%86%E6%94%AF-%E5%8F%98%E5%9F%BA)。
 另一种情况是，你只需要部分代码变动（某几个提交），这时可以采用 Cherry pick
 
 ### 异同总结
@@ -149,10 +149,10 @@ git push -u origin master
 ```
 
 ### git Revert
-[git Revert]("https://segmentfault.com/a/1190000012897697")
+[git Revert](https://segmentfault.com/a/1190000012897697)
 
 ### commitizen
-[commitizen]("https://github.com/commitizen/cz-cli#making-your-repo-commitizen-friendly")
+[commitizen](https://github.com/commitizen/cz-cli#making-your-repo-commitizen-friendly)
 
 ``` js
 yarn global add commitizen cz-conventional-changelog
@@ -163,5 +163,14 @@ git cz
 ```
 
 ### git学习
-[git场景常用]("https://github.com/k88hudson/git-flight-rules")
-[git联系]("https://learngitbranching.js.org/?locale=zh_CN")
+[git场景常用](https://github.com/k88hudson/git-flight-rules)
+
+[git联系](https://learngitbranching.js.org/?locale=zh_CN)
+
+## .gitignore
+### .gitignore不生效
+``` js
+git rm -r --cached .
+git add .
+git commit -m 'update .gitignore'
+```
