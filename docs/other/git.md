@@ -169,7 +169,7 @@ git cz
 
 [git异常处理清单](https://www.zoo.team/article/git-exception)
 
-### git reset 
+### git reset --慎用
 ``` jsx
 git reset --soft  HEAD~1   //  撤销git commit 
 git reset --mined HEAD~2 //撤销 git add git commit 
@@ -183,3 +183,8 @@ git rm -r --cached .
 git add .
 git commit -m 'update .gitignore'
 ```
+
+### git alias
+`
+它的基本用法是 git config --global alias.<简化的字符> 原始命令
+`
