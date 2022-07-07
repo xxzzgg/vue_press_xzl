@@ -43,6 +43,10 @@ module.exports = {
 				text: "前端基础",
 				children: ["/js/js.md", "/js/html.md", "/js/css.md"],
 			},
+			{
+				text: "性能体验",
+				children: ["/performance/index.md"]
+			}
 			// 字符串 - 页面文件路径
 		],
 	}),
