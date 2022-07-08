@@ -151,6 +151,13 @@ git push -u origin master
 ### git Revert
 [git Revert](https://segmentfault.com/a/1190000012897697)
 
+``` js
+  git revert <commit id>
+  拿到刚刚revert的commit id
+  再进行revert
+  然后就能拿到之前被revert的代码
+```
+
 ### commitizen
 [commitizen](https://github.com/commitizen/cz-cli#making-your-repo-commitizen-friendly)
 
@@ -165,7 +172,7 @@ git cz
 ### git学习
 [git场景常用](https://github.com/k88hudson/git-flight-rules)
 
-[git联系](https://learngitbranching.js.org/?locale=zh_CN)
+[git练习](https://learngitbranching.js.org/?locale=zh_CN)
 
 [git异常处理清单](https://www.zoo.team/article/git-exception)
 
