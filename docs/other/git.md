@@ -195,3 +195,8 @@ git commit -m 'update .gitignore'
 `
 它的基本用法是 git config --global alias.<简化的字符> 原始命令
 `
+
+### 更改ssh-keygen
+`
+ssh-keygen -f ~/.ssh/id_rsa -p
+`
