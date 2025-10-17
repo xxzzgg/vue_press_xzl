@@ -7,78 +7,14 @@ export default defineUserConfig({
   theme: defaultTheme({
     navbar: [
       { text: "首页", link: "/" },
-      { text: "前端开发", link: "/frontend/" },
-      { text: "后端开发", link: "/backend/" },
-      { text: "算法", link: "/algorithm/" },
-      { text: "开发工具", link: "/tools/" },
-      { text: "面试", link: "/interview/" },
       { text: "Price Action", link: "/pa/" },
+      { text: "review", link: "/review/" },
     ],
     sidebar: {
-      "/frontend/": [
-        {
-          text: "前端开发",
-        },
-      ],
-      "/backend/": [
-        {
-          text: "后端开发",
-          children: [
-            "/backend/README.md",
-            "/backend/nodejs.md",
-            "/backend/database.md",
-            "/backend/api.md",
-            "/backend/deployment.md",
-          ],
-        },
-      ],
-      "/algorithm/": [
-        {
-          text: "算法与数据结构",
-          children: [
-            "/algorithm/README.md",
-            "/algorithm/array-linkedlist.md",
-            "/algorithm/stack-queue.md",
-            "/algorithm/tree-graph.md",
-            "/algorithm/sorting.md",
-            "/algorithm/dynamic-programming.md",
-            "/algorithm/leetcode.md",
-          ],
-        },
-      ],
-      "/tools/": [
-        {
-          text: "开发工具",
-          children: [
-            "/tools/README.md",
-            "/tools/git.md",
-            "/tools/vscode.md",
-            "/tools/webpack.md",
-            "/tools/vite.md",
-            "/tools/package-manager.md",
-          ],
-        },
-      ],
-      "/interview/": [
-        {
-          text: "面试准备",
-          children: [
-            "/interview/README.md",
-            "/interview/javascript.md",
-            "/interview/css.md",
-            "/interview/vue.md",
-            "/interview/react.md",
-            "/interview/network.md",
-            "/interview/coding.md",
-          ],
-        },
-      ],
       "/pa/": [
         {
           text: "Price Action Trading",
-          children: [
-            "/pa/README.md",
-          ],
+          children: ["/pa/README.md"],
         },
         {
           text: "基础知识",
@@ -114,10 +50,7 @@ export default defineUserConfig({
         {
           text: "入门指南",
           collapsible: true,
-          children: [
-            "/pa/07A Starting Out.md",
-            "/pa/07B Starting Out.md",
-          ],
+          children: ["/pa/07A Starting Out.md", "/pa/07B Starting Out.md"],
         },
         {
           text: "蜡烛图、设置与信号",
@@ -245,10 +178,7 @@ export default defineUserConfig({
         {
           text: "测量移动",
           collapsible: true,
-          children: [
-            "/pa/20A Measured Moves.md",
-            "/pa/20B Measured Moves.md",
-          ],
+          children: ["/pa/20A Measured Moves.md", "/pa/20B Measured Moves.md"],
         },
         {
           text: "反转",
@@ -273,10 +203,7 @@ export default defineUserConfig({
         {
           text: "最后旗形",
           collapsible: true,
-          children: [
-            "/pa/23A Final Flags.md",
-            "/pa/23B Final Flags.md",
-          ],
+          children: ["/pa/23A Final Flags.md", "/pa/23B Final Flags.md"],
         },
         {
           text: "楔形",
@@ -300,10 +227,7 @@ export default defineUserConfig({
         {
           text: "三角形",
           collapsible: true,
-          children: [
-            "/pa/26A Triangles.md",
-            "/pa/26B Triangles.md",
-          ],
+          children: ["/pa/26A Triangles.md", "/pa/26B Triangles.md"],
         },
         {
           text: "头肩形态",
@@ -316,9 +240,7 @@ export default defineUserConfig({
         {
           text: "圆弧顶与圆弧底",
           collapsible: true,
-          children: [
-            "/pa/28 Rounded Tops and Bottoms.md",
-          ],
+          children: ["/pa/28 Rounded Tops and Bottoms.md"],
         },
         {
           text: "高潮",
@@ -377,10 +299,7 @@ export default defineUserConfig({
         {
           text: "实际风险",
           collapsible: true,
-          children: [
-            "/pa/34A Actual Risk.md",
-            "/pa/34B Actual Risk.md",
-          ],
+          children: ["/pa/34A Actual Risk.md", "/pa/34B Actual Risk.md"],
         },
         {
           text: "加仓",
@@ -398,6 +317,33 @@ export default defineUserConfig({
             "/pa/36A Trade Management and Taking Profits.md",
             "/pa/36B Trade Management and Taking Profits.md",
           ],
+        },
+      ],
+      "/review/": [
+        {
+          text: "交易复习与实战指南",
+          children: ["/review/README.md"],
+        },
+        {
+          text: "核心知识",
+          collapsible: true,
+          children: [
+            "/review/01-core-concepts.md",
+            "/review/02-opening-trading.md",
+          ],
+        },
+        {
+          text: "交易执行",
+          collapsible: true,
+          children: [
+            "/review/03-setup-rules.md",
+            "/review/04-trading-plan.md",
+          ],
+        },
+        {
+          text: "心理建设",
+          collapsible: true,
+          children: ["/review/05-trading-psychology.md"],
         },
       ],
     },

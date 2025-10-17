@@ -5,7 +5,7 @@ heroText: 个人技术笔记
 tagline: 记录学习与成长的点点滴滴
 actions:
   - text: 开始阅读
-    link: /frontend/
+    link: /pa/
     type: primary
   - text: GitHub
     link: https://github.com
