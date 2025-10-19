@@ -26,6 +26,7 @@ export default defineUserConfig({
       { text: "首页", link: "/" },
       { text: "Price Action", link: "/pa/" },
       { text: "review", link: "/review/" },
+      { text: "options", link: "/options/" },
     ],
     sidebar: {
       "/pa/": [
@@ -352,15 +353,23 @@ export default defineUserConfig({
         {
           text: "交易执行",
           collapsible: true,
-          children: [
-            "/review/03-setup-rules.md",
-            "/review/04-trading-plan.md",
-          ],
+          children: ["/review/03-setup-rules.md", "/review/04-trading-plan.md"],
         },
         {
           text: "心理建设",
           collapsible: true,
           children: ["/review/05-trading-psychology.md"],
+        },
+        {
+          text: "亏损",
+          collapsible: true,
+          children: ["/review/06losing.md"],
+        },
+      ],
+      "/options": [
+        {
+          text: "期权",
+          children: ["/options/README.md"],
         },
       ],
     },
