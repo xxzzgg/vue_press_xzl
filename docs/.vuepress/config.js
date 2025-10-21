@@ -367,10 +367,16 @@ export default defineUserConfig({
           children: ["/review/06losing.md"],
         },
       ],
-      "/options": [
+      "/options/": [
         {
           text: "期权",
           children: ["/options/README.md"],
+        },
+      ],
+      "/notes/": [
+        {
+          text: "个人笔记",
+          children: ["/notes/README.md", "/notes/02.md", "/notes/03.md"],
         },
       ],
     },
