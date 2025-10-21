@@ -366,6 +366,11 @@ export default defineUserConfig({
           collapsible: true,
           children: ["/review/06losing.md"],
         },
+        {
+          text: "ES Review",
+          collapsible: true,
+          children: ["/review/daily-review-emini.md"],
+        },
       ],
       "/options/": [
         {
