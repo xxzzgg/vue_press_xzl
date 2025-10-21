@@ -27,6 +27,7 @@ export default defineUserConfig({
       { text: "Price Action", link: "/pa/" },
       { text: "review", link: "/review/" },
       { text: "options", link: "/options/" },
+      { text: "个人笔记", link: "/notes/" },
     ],
     sidebar: {
       "/pa/": [
