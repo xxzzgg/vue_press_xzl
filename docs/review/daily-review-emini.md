@@ -1,19 +1,13 @@
 # review
 
-### 2025/10
+## 2025/10
 
-- 1021
-  ![alt text](image-12.png)
+### E-mini daily chart-10.21
 
-### 2025/11
+![alt text](image-13.png)
 
-- 1221
-  ![alt text](image-12.png)
+### E-mini daily chart-10.22
 
-### 2025/12
+## 2025/11
 
-- 1221
-  ![alt text](image-12.png)
-
-- 1222
-  ![alt text](image-12.png)
+## 2025/12
