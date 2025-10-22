@@ -1,46 +1,95 @@
 # 强趋势：窄通道与微回调
 
-## 窄通道 (Narrow Channels)
+## 窄通道 (Tight Channels)
 
 ### 定义与特征
 
 - **概念**：一种强劲的趋势形态，其回调/反弹非常浅且短暂，通常只持续 1-2 根 K 线。
 - **特征**：通道倾斜度高，宽度窄，价格沿一个方向持续推进，双向交易的风险极高。
+  ![alt text](image-99.png)
 
 ### 与高时间周期的关系
 
 - **核心理念**：当前时间周期（如 5 分钟图）上的窄通道，在更高的时间周期（如 15 分钟、30 分钟图）上通常表现为一次强劲的 **突破 (Breakout)**。
 - **交易启示**：应将窄通道视为突破来交易，因为其内在强度远超表面所见。
+  ![alt text](image-100.png)
 
 ### 交易策略
 
 - **单一方向原则**：在窄的上涨通道中，**只考虑买入**；在窄的下降通道中，**只考虑卖出**。
 - **模糊情况处理**：当无法明确区分是宽通道还是窄通道时，应保守地 **假设其为窄通道**，并坚持单一方向交易，直到出现明确的双向交易证据。
 - **对比宽通道**：宽通道回调更深（5-10 根 K 线以上），更像是倾斜的震荡区间，允许双向高抛低吸；而窄通道是单向市场。
+  ![alt text](image-101.png)
+  ![alt text](image-103.png)
+  ![alt text](image-102.png)
+  ### tight or broad
+  no matter tight or broad trade in direction
+  ![alt text](image-104.png)
 
 ## 微回调趋势 (Trends with Almost No Pullbacks)
 
 ### 定义与识别
 
-- **概念**：最强劲的趋势类型，回调/反弹极其微小，是窄通道的极致形态。
-- **表面特征 (易误导)**：趋势可能看起来很“弱”或“犹豫”，包含大量十字星、小实体 K 线和重叠的 K 线，看似震荡。
+- **概念**：最强劲的趋势类型，回调/反弹极其微小，是窄通道的极致形态。**brief small pullback**
+- **表面特征 (易误导)**：**趋势可能看起来很“弱”或“犹豫”，包含大量十字星、小实体 K 线和重叠的 K 线，看似震荡。**
 - **关键识别信号：缺口 (Gaps)**
+
   - **价格缺口**：回调的最低点（上涨趋势中）未能触及前一个突破点的高点，表明买盘极其强势。
-  - **实体缺口 (Body Gaps)**：即使影线有重叠，但回调 K 线的实体部分与突破 K 线的实体部分没有重叠，这同样是趋势强劲的有力信号。
+  - **实体缺口 (Body Gaps)**： **即使影线有重叠，但回调 K 线的实体部分与突破 K 线的实体部分没有重叠，这同样是趋势强劲的有力信号**。
   - **作用**：缺口的存在是确认微回调趋势的关键，它揭示了表面之下的真实强度。
+    ![alt text](image-105.png)
+    ![alt text](image-106.png)
+
+  ### small pullback. high timeframe breakout
+
+  ![alt text](image-107.png)
+
+  ### gap stay open
+
+  ![alt text](image-108.png)
+
+  ### small pullback trend => sometimes has big pullback
+
+  ![alt text](image-109.png)
+
+  ### strong bull trend: still can reversal but rare
+
+  ![alt text](image-110.png)
+  ![alt text](image-111.png)
+  ![alt text](image-112.png)
+
+  ### small pb trend day: also a tight channel trend
+
+  ![alt text](image-113.png)
 
 ### 交易含义与策略
 
 - **交易者心理**：这种趋势会套牢所有试图逆势交易的交易者，同时也会让不够坚决的顺势交易者因其“看似疲软”的表象而不敢入场。
 - **核心策略**：一旦识别出（尤其是通过缺口确认）这是一个微回调趋势，**必须放弃任何逆势交易的想法**。应积极寻找任何理由顺势入场（如：回调后恢复上涨时买入，市价买入等），并使用合理的宽止损（如：置于最近一个重要低点下方）。
 
+### 弱小交易者
+
+![alt text](image-115.png)
+![alt text](image-116.png)
+
+### 强大交易者
+
+![alt text](image-118.png)
+
 ## 强趋势中的交易管理
 
-### 均线 (EMA20) 的应用
+### 均线 (EMA20) 的应用 good setup
 
 - **买入信号**：当价格长时间（如 20 根 K 线以上）运行在 20 周期均线上方后，**第一次回测均线** 是一个高概率的买入机会。
 - **“买入第一次”原则**：在强趋势中，交易者会积极买入“第一次”出现的情况，如：第一次小回调、第一次触及均线、第一次有阴线收于均线之下（视为空头陷阱）。
 - **均线缺口 K 线**：K 线实体完全处于均线上方（或下方），是趋势力量的展示，其后的顺势突破是可靠的入场信号。
+  ![alt text](image-120.png)
+  ![alt text](image-119.png)
+  ![alt text](image-122.png)
+  ![alt text](image-123.png)
+  ![alt text](image-121.png)
+  - gap
+    ![alt text](image-125.png)
 
 ### 竭尽与反转
 
