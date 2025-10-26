@@ -27,7 +27,7 @@ export default defineUserConfig({
       { text: "Price Action", link: "/pa/" },
       { text: "review", link: "/review/" },
       { text: "options", link: "/options/" },
-      { text: "个人笔记", link: "/notes/" },
+      { text: "trade", link: "/trade/" },
     ],
     sidebar: {
       "/pa/": [
@@ -378,10 +378,10 @@ export default defineUserConfig({
           children: ["/options/README.md"],
         },
       ],
-      "/notes/": [
+      "/trade/": [
         {
-          text: "个人笔记",
-          children: ["/notes/README.md", "/notes/02.md", "/notes/03.md"],
+          text: "Trade",
+          children: ["/trade/README.md", "/trade/03.md"],
         },
       ],
     },
