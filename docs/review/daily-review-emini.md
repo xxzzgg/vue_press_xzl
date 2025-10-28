@@ -8,6 +8,10 @@
 
 ### E-mini 10.22
 
+### E-mini 10.24 Friday
+
+![alt text](image-24.png)
+
 ### E-mini 10.27 Monday
 
 - **RTH**: gap up => spike => bull channel **更高的低点**
