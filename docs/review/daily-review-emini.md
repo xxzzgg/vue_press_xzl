@@ -24,6 +24,12 @@
 
 ### E-mini 10.28 Tuesday
 
+### E-mini 10.29 Wednesday
+
+### E-mini 10.30 Thursday
+
+### E-mini 10.31 Friday
+
 ## 2025/11
 
 ## 2025/12
