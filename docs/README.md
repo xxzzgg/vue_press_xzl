@@ -1,8 +1,8 @@
 ---
 home: true
 title: 首页
-heroText: 个人技术笔记
-tagline: 记录学习与成长的点点滴滴
+heroText: 扶起来也是流口水
+tagline: --
 actions:
   - text: 开始阅读
     link: /pa/
