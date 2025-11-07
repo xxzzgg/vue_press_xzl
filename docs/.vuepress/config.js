@@ -23,7 +23,7 @@ export default defineUserConfig({
   ],
   theme: defaultTheme({
     navbar: [
-      { text: "首页", link: "/trade/" },
+      { text: "首页", link: "/" },
       { text: "Price Action", link: "/pa/" },
       { text: "Trade", link: "/trade/" },
       { text: "Review", link: "/review/" },
