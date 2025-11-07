@@ -25,9 +25,9 @@ export default defineUserConfig({
     navbar: [
       { text: "首页", link: "/" },
       { text: "Price Action", link: "/pa/" },
-      { text: "review", link: "/review/" },
-      { text: "options", link: "/options/" },
-      { text: "trade", link: "/trade/" },
+      { text: "Trade", link: "/trade/" },
+      { text: "Review", link: "/review/" },
+      // { text: "options", link: "/options/" },
     ],
     sidebar: {
       "/pa/": [
@@ -338,6 +338,12 @@ export default defineUserConfig({
           ],
         },
       ],
+      "/trade/": [
+        {
+          text: "Trade",
+          children: ["/trade/README.md", "/trade/01.md"],
+        },
+      ],
       "/review/": [
         {
           text: "交易复习与实战指南",
@@ -372,18 +378,12 @@ export default defineUserConfig({
           children: ["/review/daily-review-emini.md"],
         },
       ],
-      "/options/": [
-        {
-          text: "期权",
-          children: ["/options/README.md"],
-        },
-      ],
-      "/trade/": [
-        {
-          text: "Trade",
-          children: ["/trade/README.md", "/trade/03.md"],
-        },
-      ],
+      // "/options/": [
+      //   {
+      //     text: "期权",
+      //     children: ["/options/README.md"],
+      //   },
+      // ],
     },
   }),
 });

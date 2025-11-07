@@ -2,7 +2,7 @@
 home: true
 title: 首页
 heroText: 扶起来也是流口水
-tagline: --
+tagline: 这样的人生又有什么意思?
 actions:
   - text: 开始阅读
     link: /pa/
