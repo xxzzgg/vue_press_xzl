@@ -341,7 +341,7 @@ export default defineUserConfig({
       "/trade/": [
         {
           text: "Trade",
-          children: ["/trade/README.md", "/trade/01.md"],
+          children: ["/trade/README.md", "/trade/01.md", "/trade/02.md"],
         },
       ],
       "/review/": [

@@ -4,6 +4,39 @@ title: I lose my way
 
 ### 凡心所向,素履以往;生如逆旅,一苇以航
 
+## setup 测试练习
+
+### setup1: Tight Channel
+
+- #### setup 理由
+
+一段强劲的趋势运行的首次回调大概率会 trend resume，因为成功突破后或者趋势初次形成 顺势/逆势者都会很意外，所以首次 pullback 顺势方会找机会进场，逆势放会找机会离场，所以多空双方合力大概率会有第二段趋势也就是趋势恢复
+
+- #### 入场时机
+
+1. 一般会在关键支撑入场比如 50%回调 / 首次回调 EMA20
+2. 有良好的顺势信号 K，或者不好的逆势信号 K，来确认
+3. 最好避免开盘前几个 K 因为经常会有开盘趋势反转
+4. 有时候会经历长时间（大于 20 根 K）的震荡回调，则说明趋势变弱，则趋势反转和趋势延续则概率相等
+5. 如果是 TTR 则最好是等待，如果宽幅震荡则可以 scalp
+6. 第一目标为是前高，如果 50%的回调是盈亏比为 1，如果回调小于 50%，则盈亏比小于 1，但是概率更好，因为趋势更强
+
+![alt text](image-45.png)
+![alt text](image-46.png)
+![alt text](image-47.png)
+![alt text](image-48.png)
+![alt text](image-49.png)
+![alt text](image-50.png)
+![alt text](image-51.png)
+![alt text](image-52.png)
+![alt text](image-53.png)
+![alt text](image-54.png)
+![alt text](image-55.png)
+![alt text](image-56.png)
+![alt text](image-57.png)
+![alt text](image-58.png)
+![alt text](image-59.png)
+
 ## 用概率思维替代确定思维
 
 - 概率
