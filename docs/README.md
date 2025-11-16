@@ -1,8 +1,8 @@
 ---
 home: true
 title: 首页
-heroText: 扶起来也是流口水
-tagline: 这样的人生又有什么意思?
+heroText: 专注过程
+tagline: 专注过程的执行，不用对结果有太多执念，概率思维
 actions:
   - text: TRADE
     link: /trade/
