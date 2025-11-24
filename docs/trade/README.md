@@ -4,15 +4,13 @@ title: I lose my way
 
 ### 凡心所向,素履以往;生如逆旅,一苇以航
 
-## setup 测试练习
+## 顺势交易
 
-### setup1: Tight Channel
-
-- #### setup 理由
+### <span style="color:red;">setup1: enter on PB</span>
 
 一段强劲的趋势运行的首次回调大概率会 trend resume，因为成功突破后或者趋势初次形成 顺势/逆势者都会很意外，所以首次 pullback 顺势方会找机会进场，逆势放会找机会离场，所以多空双方合力大概率会有第二段趋势也就是趋势恢复
 
-- #### 入场时机
+### 入场时机
 
 1. 一般会在关键支撑入场比如 50%回调 / 首次回调 EMA20
 2. 有良好的顺势信号 K，或者不好的逆势信号 K，来确认，信号 k-挂突破单入场
@@ -20,6 +18,14 @@ title: I lose my way
 4. 有时候会经历长时间（大于 20 根 K）的震荡回调，则说明趋势变弱，则趋势反转和趋势延续则概率相等
 5. 如果是 TTR 则最好是等待，如果宽幅震荡则可以 scalp
 6. 第一目标为是前高，如果 50%的回调是盈亏比为 1，如果回调小于 50%，则盈亏比小于 1，但是概率更好，因为趋势更强
+
+### 建仓点
+
+1. 趋势的新突破点，突破前高。follow through 确认
+2. 横盘震荡后显著趋向某个方向突破，follow through 确认
+3. 上涨趋势的回调点或者下跌趋势的反弹点（50%），回调有可能会形成新的趋势，如果与主趋势不一致，则需要平仓，很容易回撤到起点
+
+### 案例
 
 ![alt text](image-45.png)
 ![alt text](image-46.png)
@@ -36,6 +42,18 @@ title: I lose my way
 ![alt text](image-57.png)
 ![alt text](image-58.png)
 ![alt text](image-59.png)
+
+### 陷阱
+
+有时候会在弱趋势或者震荡区间形成一段强劲的趋势，很容易是一次陷阱，所以要关注左侧的 K 线运动
+<span style="color:red;">要看这段所谓的“强劲的趋势突破了什么”</span>
+
+### 容易产生陷阱的位置：
+
+- <span style="color:red;">震荡区间的一段强劲的走势</span>
+- <span style="color:red;">趋势运行到一定程度（趋势后期）的第二段/第三段强劲的走势</span>
+
+![alt text](image-60.png)
 
 ### special case
 
