@@ -1,8 +1,8 @@
 ---
 home: true
 title: 首页
-heroText: 专注过程
-tagline: 专注过程的执行，不用对结果有太多执念，概率思维
+heroText: 老子天下无敌
+tagline: 其他全是垃圾，人是世界上最垃圾的物种
 actions:
   - text: TRADE
     link: /trade/
