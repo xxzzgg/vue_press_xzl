@@ -1,8 +1,8 @@
 ---
 home: true
 title: 首页
-heroText: 老子天下无敌
-tagline: 其他全是垃圾，人是世界上最垃圾的物种
+heroText: 123
+tagline: 321
 actions:
   - text: TRADE
     link: /trade/
