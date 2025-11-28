@@ -27,7 +27,7 @@ export default defineUserConfig({
       { text: "Price Action", link: "/pa/" },
       { text: "Trade", link: "/trade/" },
       { text: "Review", link: "/review/" },
-      // { text: "options", link: "/options/" },
+      { text: "Options", link: "/options/" },
     ],
     sidebar: {
       "/pa/": [
@@ -378,12 +378,12 @@ export default defineUserConfig({
           children: ["/review/daily-review-emini.md"],
         },
       ],
-      // "/options/": [
-      //   {
-      //     text: "期权",
-      //     children: ["/options/README.md"],
-      //   },
-      // ],
+      "/options/": [
+        {
+          text: "Options",
+          children: ["/options/README.md"],
+        },
+      ],
     },
   }),
 });

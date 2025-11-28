@@ -1,8 +1,8 @@
 ---
 home: true
 title: 首页
-heroText: 123
-tagline: 321
+heroText: 要么绚烂疯狂要么跳楼死亡
+tagline: 不留遗憾
 actions:
   - text: TRADE
     link: /trade/
