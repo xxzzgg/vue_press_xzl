@@ -1274,6 +1274,9 @@ premium => 1 / 3
 100% - 1/3 = 70%
 100% - 1/4 = 75%
 100% - 1/5 = 80%
+![alt text](image-14.png)
+
+![alt text](image-1.png)
 
 - <span style="color:red;">**就是用 premium 和单边垂直价差的比值，比如 1/3 就是 33% 1 - 33% = 66%**</span>
 
