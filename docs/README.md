@@ -1,7 +1,7 @@
 ---
 home: true
 title: 首页
-heroText: 要么绚烂疯狂要么跳楼死亡
+heroText: 绚烂疯狂
 tagline: 不留遗憾
 actions:
   - text: TRADE
