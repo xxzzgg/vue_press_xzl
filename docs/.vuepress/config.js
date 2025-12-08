@@ -381,7 +381,7 @@ export default defineUserConfig({
       "/options/": [
         {
           text: "Options",
-          children: ["/options/README.md"],
+          children: ["/options/01.md", "/options/README.md"],
         },
       ],
     },
