@@ -1,7 +1,7 @@
 ---
 home: true
 title: 首页
-heroText: 绚烂疯狂
+heroText: Just for you
 tagline: 不留遗憾
 actions:
   - text: TRADE
