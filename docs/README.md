@@ -1,8 +1,8 @@
 ---
 home: true
 title: 首页
-heroText: Just for you
-tagline: 不留遗憾
+heroText: just for you
+tagline: just fuck you
 actions:
   - text: TRADE
     link: /trade/
