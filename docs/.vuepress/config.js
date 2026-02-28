@@ -28,12 +28,13 @@ export default defineUserConfig({
       { text: "Trade", link: "/trade/" },
       { text: "Review", link: "/review/" },
       { text: "Options", link: "/options/" },
+      { text: "趋势专题", link: "/trend/" },
     ],
     sidebar: {
       "/pa/": [
         {
           text: "Price Action Trading",
-          children: ["/pa/README.md"],
+          children: ["/pa/README.md", "/pa/00-trading-system.md"],
         },
         {
           text: "基础知识",
@@ -382,6 +383,12 @@ export default defineUserConfig({
         {
           text: "Options",
           children: ["/options/README.md", "/options/01.md", "/options/02.md"],
+        },
+      ],
+      "/trend/": [
+        {
+          text: "趋势专题",
+          children: ["/trend/README.md"],
         },
       ],
     },
