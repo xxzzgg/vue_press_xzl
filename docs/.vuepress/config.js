@@ -29,6 +29,7 @@ export default defineUserConfig({
       { text: "Review", link: "/review/" },
       { text: "Options", link: "/options/" },
       { text: "趋势专题", link: "/trend/" },
+      { text: "心理学专题", link: "/psychology/" },
     ],
     sidebar: {
       "/pa/": [
@@ -389,6 +390,37 @@ export default defineUserConfig({
         {
           text: "趋势专题",
           children: ["/trend/README.md"],
+        },
+      ],
+      "/psychology/": [
+        {
+          text: "心理学专题",
+          children: ["/psychology/README.md"],
+        },
+        {
+          text: "认知与情绪",
+          collapsible: true,
+          children: [
+            "/psychology/01-cognitive-biases.md",
+            "/psychology/02-emotion-regulation.md",
+          ],
+        },
+        {
+          text: "关系与成长",
+          collapsible: true,
+          children: [
+            "/psychology/03-boundaries-and-relationships.md",
+            "/psychology/04-self-growth.md",
+          ],
+        },
+        {
+          text: "交易心理学",
+          collapsible: true,
+          children: [
+            "/psychology/05-trading-waiting-and-boredom.md",
+            "/psychology/06-trading-loss-and-revenge.md",
+            "/psychology/07-trading-drawdown-recovery.md",
+          ],
         },
       ],
     },

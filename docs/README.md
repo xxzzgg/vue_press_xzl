@@ -12,6 +12,22 @@ tagline: 将往事留在风中
 #     type: secondary
 ---
 
+### 注意力隧道
+
+Nothing in life is as important as you think it is when you are thinking about it
+
+【人类对“当下关注的事情”存在系统性高估】，当你把注意力集中在某一件事上时，你的大脑会自动忽略其他一切信息
+
+比如你专注5min/会忽略更重要的30min/1h min/ daily
+
+🚨 1️⃣ 思维变窄
+
+🚨 2️⃣ 情绪化
+
+🚨 3️⃣ 时间感消失
+
+🚨 4️⃣ 忽略外部信息
+
 ### 《当爱已成往事》
 
 为何你不懂 <br/>
