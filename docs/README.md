@@ -12,6 +12,8 @@ tagline: 将往事留在风中
 #     type: secondary
 ---
 
+# May the force be with you
+
 ### 注意力隧道
 
 Nothing in life is as important as you think it is when you are thinking about it
