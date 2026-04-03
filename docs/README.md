@@ -14,6 +14,18 @@ tagline: 将往事留在风中
 
 # May the force be with you
 
+# Hope 是交易中的毒药
+
+# 为什么做开发的时候 觉得fix bug 是常态
+
+# 而不是害怕有bug 不承认有bug 因为你知道有bug越早发现越早解决会让系统更健壮
+
+# 交易却经常不承认错误（亏损），因为你觉得错误会让你的盈利系统变差
+
+# 交易 fix bug ，不是fix 那笔交易而不是fix 纪律问题，bug/亏损只要可控，完全合理
+
+
+
 ### 注意力隧道
 
 Nothing in life is as important as you think it is when you are thinking about it
