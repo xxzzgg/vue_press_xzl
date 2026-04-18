@@ -3,13 +3,6 @@ home: true
 title: 首页
 heroText: 人生没有我并不会不同
 tagline: 将往事留在风中
-# actions:
-#   - text: TRADE
-#     link: /trade/
-#     type: primary
-#   - text: PA
-#     link: /pa/
-#     type: secondary
 ---
 
 # May the force be with you
@@ -23,8 +16,6 @@ tagline: 将往事留在风中
 # 交易却经常不承认错误（亏损），因为你觉得错误会让你的盈利系统变差
 
 # 交易 fix bug ，不是fix 那笔交易而不是fix 纪律问题，bug/亏损只要可控，完全合理
-
-
 
 ### 注意力隧道
 
