@@ -70,6 +70,10 @@
 - 回调后能快速恢复主方向。
 - 回调中不出现大量重叠与反复拉扯。
 
+### leg or trend
+
+![alt text](image-5.png)
+
 ## 7. 左侧 Context 的范围（怎么界定）
 
 - `Context` 不是固定根数，而是会改变当前这笔交易胜率的最小充分左侧信息。
@@ -409,3 +413,36 @@ MES日内不同时段有不同特性,要区别对待:
 ---
 
 要不要我帮你把这个model做成一个**实际的一页纸PDF/打印版**,或者设计一个**每日复盘模板**?另外,你现在账户大小、日内可承受的回撤、每天能全神贯注交易的时长是多少?根据这些参数我可以把仓位规则调到你的具体情况。
+
+## 开盘场景
+
+### 开盘 open gap 3推楔形
+
+![alt text](image.png)
+
+### 如果趋势不强被反转有概率走的很远，如果趋势很强被反转大概率是TR或者pullback
+
+### open reversal & breakout mode
+
+开盘reversal，因为开盘的趋势不是很强，突破开盘区间并达到MM
+![alt text](image-1.png)
+
+![alt text](image-4.png)
+
+### open reversal
+
+开盘reversal，但是因为是big gap开盘，大突破开盘，所以大概率形成TR，
+![alt text](image-2.png)
+![alt text](image-3.png)
+
+# 规则
+
+0. 禁止亏损加仓
+1. context【15-20根k】 > signal （越强的趋势，惯性越大，越需要second entry， 和follow ）
+2. breakout need follow (success / fail)
+3. 不同时间周期
+4. 小仓位验证方向：市场认可你（盈利），然后再慢慢增加仓位，而不是在市场给你警告（亏损）的时候，你还是继续错误的方向
+5. protect stop 【一旦确认protect stop 就不可以移动， 这个stop 意味着你能承受的最大loss，但不一定会被触发】
+6. premise 【如果一旦premise 不成立 则需要直接离场，不一定要等待protect stop 触发】
+7. maxLoss：1% = `200刀【1mes： 5 * 40 】【2mes： 5 * 2 * 20】 【4mes： 5 * 4 * 10】`
+8. Review
