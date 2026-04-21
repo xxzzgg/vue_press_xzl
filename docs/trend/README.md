@@ -493,3 +493,29 @@ MES日内不同时段有不同特性,要区别对待:
 
 - 记录 setup 并进行分类，总结出那种setup胜率最高，最适合自己
 - 记录最差的setup来进行避免
+
+### Apr 21 review
+
+整体review:
+![alt text](Snipaste_2026-04-21_09-20-41.jpg)
+
+- 开盘BO但是ETH已经走了很远了，所以立即被Reversal了，fail BO, 然后反向BO 达到MM
+- BO一定要等待follow through 等待BO1/BO2/BO3
+- 这个failed BO事后看起来可能也有迹可循，因为ETH open gap 然后一直拉到RTH，这个BO，可能是exhaustion gap，并立即被回补
+- 后面发生Bear BO,虽然这个Bear BO Bar足够大，也有跟随，但是这个BO是没有收在50%下，说明下面有买盘，并且follow BO1 BO2 BO3 都是inside Bar，并且实体越来越来越小，tail越来越多
+- 后面这个Bear BO 虽然成功了，但是也不是非常的强势，所以后面被反转或者今天是大的区间日可能性增加，而不是AIS（always in short）
+- 后面Big up,增加的TR Day的概率，后面就一直围绕EMA，来回cross，直到尾盘big reversal
+- 宽通道应该大概率被反向反转，但是今天是顺着宽通道的方向突破，所以尾盘尽量避免持仓
+
+问题review:
+
+1. BO没有等待跟随就直接进入了
+2. BO是发生在ETH的趋势后期是exhaustion gap
+3. 发生Bear BO，也不代表全天就是AIS，不能对市场有先入为主的看法，不做预测，只做跟随
+
+下次注意:
+
+1. BO的质量
+2. BO的 follow质量: BO1 BO2 BO3（是否是假突破case1，是否强势突破case2）
+
+### Apr 22
