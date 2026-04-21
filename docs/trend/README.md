@@ -494,7 +494,7 @@ MES日内不同时段有不同特性,要区别对待:
 - 记录 setup 并进行分类，总结出那种setup胜率最高，最适合自己
 - 记录最差的setup来进行避免
 
-### Apr 21 review
+### Apr 20 Monday review
 
 整体review:
 ![alt text](Snipaste_2026-04-21_09-20-41.jpg)
@@ -518,4 +518,4 @@ MES日内不同时段有不同特性,要区别对待:
 1. BO的质量
 2. BO的 follow质量: BO1 BO2 BO3（是否是假突破case1，是否强势突破case2）
 
-### Apr 22
+### Apr 21
